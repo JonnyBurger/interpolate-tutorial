@@ -1,5 +1,7 @@
 # [Watch the video](https://youtu.be/sff_CdWw_-c)
 
+This repo uses Git LFS. The repo size is approximately 70MB.
+
 # Remotion video
 
 <p align="center">
